@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4ff52c5e968ab718f9a31efc",
+  "owner": "xyfyuna",
+  "repo": "page-fd584b9b915a2bf03391db06",
+  "title": "Panda",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fd584b9b915a2bf03391db06",
+      "a": "Panda",
+      "b": "稳定全球clash加速器",
+      "entity": "Panda",
+      "brand": "Panda",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b69e0a8a837ea0b9f9093f057a853b4dce4f2abbdd69aaa98e6d25edcc9170dc",
+      "content": {
+        "primary_entity": "Panda",
+        "keyword1": "Panda",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Panda 支持 Clash 订阅方式，Windows、macOS、iOS、Android 和路由器各有对应客户端。导入订阅前先按设备类型选好客户端，再参考客户端文档填入订阅地址。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLOSING_TEXT": "按自己的设备数量和使用场景选一档 Panda 套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上加速",
+          "AI_DESCRIPTION": "，Panda 面向需要稳定跨区连接的用户，提供按月或按年付费的加速订阅。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并使用 IPLC 专线优化游戏加速，团队版每月 1000GB 可同时在线 20 台设备。按设备安装对应客户端并导入订阅后即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量支持 3 台设备，适合个人手机加电脑；旗舰版每月 300GB 支持 5 台设备；团队版每月 1000GB 支持 20 台设备。按常用设备数量和月流量选即可。",
+          "AI_FAQ_ANSWER_2": "Panda 通过订阅地址提供给各客户端使用。在客户端中选择订阅或配置导入，粘贴购买后获得的订阅链接即可拉取节点。不同客户端菜单名称略有差异，可对照客户端文档操作。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。若家里有多台手机、平板和电脑需要同时连接，建议按设备总数选更高一档。",
+          "AI_FAQ_ANSWER_4": "月付灵活、便于短期使用；年付更划算，基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用可以选年付降低月均成本。",
+          "AI_FAQ_ANSWER_5": "先确认手机、电脑或路由器等常用设备类型，再估算每月流量和同时在线设备数量。个人轻度使用选基础版，有流媒体和游戏加速需求选旗舰版，设备多或用量大选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Panda 三个套餐分别适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "Panda 的节点订阅怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "怎样判断自己该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "Panda 的三档套餐在流量、设备数和线路优化上各有侧重，先看清自己的用量再下单更省心。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备同时在线，年付 ¥150，适合手机加电脑的日常跨区访问。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备同时在线，含 IPLC 专线游戏加速优化，年付 ¥350，适合流媒体和游戏用户。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备同时在线，提供 VIP 高带宽节点与定制路由，年付 ¥850，适合多人协作场景。",
+          "AI_FEATURE_TITLE_1": "个人轻量之选",
+          "AI_FEATURE_TITLE_2": "流媒体与游戏优化",
+          "AI_FEATURE_TITLE_3": "多设备团队方案",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步就能把 Panda 用起来。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Panda 提供适合跨区访问的加速订阅，按月或按年付费，基础版、旗舰版、团队版分别面向个人、进阶和多设备用户。选择对应套餐后，用 Clash 等客户端导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "跨区连接，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐阶梯清晰",
+          "AI_HIGHLIGHT_2": "流量与设备数明确",
+          "AI_HIGHLIGHT_3": "支持 Clash 订阅配置",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 游戏加速优化，团队版每月 1000GB 支持 20 台设备。年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看自己常用几台设备、每月大概用多少流量，再对照基础版、旗舰版、团队版的流量和设备数选择。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在客户端支持范围内，并查看对应客户端对订阅格式的适配要求，避免导入失败。",
+          "AI_STEP_TEXT_3": "购买后在客户端中添加订阅地址，按客户端文档完成导入与节点选择，随后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Panda 加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--cloud-xg1h835l.com",
+    "host": "xn--cloud-xg1h835l.com"
+  },
+  "file_hashes": {
+    "index.html": "c28d95b34223dbe3e3a555fcee602ff6b48a5fa0783d9e9b633ceef5838ff624",
+    "sitemap.xml": "76b169dd6e6afbac6af14427734bc717a20942655fbeb0d1850829b383cdba64",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c2a21ba18b733b70a0b69b3787e2008c6c4c9f73a74b57056519236e8a772b94",
+    "robots.txt": "6c1dd47a19f379e10bf120372c8307a833f055360d6da3d0c70942a8b5bc1cc2",
+    "30c9b2997e063edf808fc89f495fa528.txt": "4dacdc574113588b24e407f0e7a51495c6023fb3c03f862d853e321137eb5c6a"
+  },
+  "revision": "deb884aa7900ebdb37e8e6100dfc9f86a05db331e3ced502c229dd7fd46908d0"
+}
